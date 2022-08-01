@@ -65,6 +65,9 @@ sp_loc_cli_na <- sp_loc_cli[is.na(bio1),]
 ##BIO12 = Annual Precipitation (mm)
 fwrite(sp_loc_cli, "BCloc_Biome_clibio.csv")
 
+## this is HC
+# more changes
+
 
 
 
